@@ -670,7 +670,7 @@
       "properties": {
         "name": "Kentucky",
         "population": 4468402,
-        "Leader" : "Random Info"
+        "leader" : "Random Info"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1554,7 +1554,8 @@
       "type": "Feature",
       "properties": {
         "name": "Oklahoma",
-        "population": 3943079
+        "population": 3943079,
+        "leader" : "Marissa Robertson"
       },
       "geometry": {
         "type": "Polygon",
