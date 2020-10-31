@@ -670,7 +670,7 @@
       "properties": {
         "name": "Kentucky",
         "population": 4468402,
-        "Leader" : "Somebody Not Here"
+        "Leader" : "Somebody Not Here "
       },
       "geometry": {
         "type": "MultiPolygon",
