@@ -670,7 +670,7 @@
       "properties": {
         "name": "Kentucky",
         "population": 4468402,
-        "Facebook" : "https://facebook.com/FreeMomHugsKentucky"
+        "facebook" : "https://facebook.com/FreeMomHugsKentucky"
       },
       "geometry": {
         "type": "MultiPolygon",
