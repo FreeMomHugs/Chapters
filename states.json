@@ -670,7 +670,7 @@
       "properties": {
         "name": "Kentucky",
         "population": 4468402,
-        "leader" : "Random Info"
+        "facebook" : "Random Info"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1555,7 +1555,8 @@
       "properties": {
         "name": "Oklahoma",
         "population": 3943079,
-        "leader" : "Marissa Robertson"
+        "facebook" : "https://facebook.com/freemomhugsoklahoma"
+        "statewebsite" : "https://freemomhugs.org/project/oklahoma"
       },
       "geometry": {
         "type": "Polygon",
